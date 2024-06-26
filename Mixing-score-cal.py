@@ -1,4 +1,4 @@
-# This code has been written by Gil Wiseglass from the Rotem Rubinstein lab, Tel Aviv University, Israel.
+# This code has been written by Gil Wiseglass and Nadir Boni from the Rotem Rubinstein lab, Tel Aviv University, Israel.
 # This code has been used for the data presented in the paper "clustered protocadherin cis-interactions are
 # required for combinatorial cell-cell recognition underlying neuronal self-avoidance".
 
